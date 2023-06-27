@@ -17,7 +17,7 @@ struct ContentView: View {
             //chelsey needs help!
         }
         .padding()
-    }
+    }//jasssss
 }
 
 struct ContentView_Previews: PreviewProvider {
