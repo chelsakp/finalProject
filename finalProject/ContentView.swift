@@ -3,7 +3,7 @@
 //  finalProject
 //
 //  Created by Scholar on 6/27/23.
-//
+//follow chelsey and rachel on depop
 
 import SwiftUI
 
