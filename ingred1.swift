@@ -11,7 +11,7 @@ struct ingred1: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 20.0){
             
-            Image("Image")
+            Image("potato")
                 .resizable(capInsets: EdgeInsets(top: 0.0, leading: 0.0, bottom: 0.0, trailing: 0.0))
                 .frame(width: 100.0, height: 100.0)
                 .position(x: 180, y: 80)
