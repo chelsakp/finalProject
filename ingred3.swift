@@ -5,7 +5,7 @@
 //  Created by Scholar on 6/27/23.
 // Banana - Sylvia
 
-import SwiftUI//hi
+import SwiftUI
 
 struct ingred3: View {
     var body: some View {
