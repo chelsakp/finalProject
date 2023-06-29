@@ -131,6 +131,7 @@ struct ContentView: View {
             }//end of main VStack
             
         }
+        .padding()
     }
     
     
